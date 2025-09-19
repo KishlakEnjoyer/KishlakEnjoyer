@@ -12,7 +12,7 @@
 ## 🔧 Skills & Technologies
 
 - **Languages**: C#, Python, JavaScript (JS), Java, C++, Vue.js, Node.js, PHP
-- **Tools & Frameworks**: Visual Studio, Git, GitHub, VS Code, .NET, React (learning), SupaBase, MySQL
+- **Tools & Frameworks**: Jupyter Notebook, Visual Studio, Git, GitHub, VS Code, .NET, React (learning), SupaBase, MySQL
 - **Concepts**: OOP, Data Structures, Algorithms, Problem Solving
 
 ---
