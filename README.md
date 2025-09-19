@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ericvhan! 🌟
+# 👋 Hello, I'm Ericchan! 🌟
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishlakEnjoyer&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishlakEnjoyer&layout=compact&theme=dark)
