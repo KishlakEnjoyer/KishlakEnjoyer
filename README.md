@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Eric! 🌟
+# 👋 Hello, I'm Erik! 🌟
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishlakEnjoyer&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishlakEnjoyer&layout=compact&theme=dark)
 
-> 💬 Hi, my name is Eric! 🥂 I'm passionate about programming and currently learning **C#**, **Python**, **JavaScript**, **Java**, and **C++**. 🚀  
+> 💬 Hi, my name is Erik! 🥂 I'm passionate about programming and currently learning **C#**, **Python**, **JavaScript**, **Java**, and **C++**. 🚀  
 > I'm constantly striving to upgrade my skills and build meaningful projects. ❤️  
 > Feel free to reach out — I'd love to connect and collaborate! 🤝
 
