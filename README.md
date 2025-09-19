@@ -16,7 +16,7 @@
 - **Concepts**: OOP, Data Structures, Algorithms, Problem Solving
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,dotnet,nodejs,mysql,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,php,vuejs,github,dotnet,nodejs,mysql,windows" />
 </div>
 
 ---
