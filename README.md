@@ -18,12 +18,12 @@
 <div align="left">
   
   OS, Tools:
-  <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,pycharm,mysql,supabase,docker,git,github,gitlab,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=windows,-,vscode,visualstudio,pycharm,-,mysql,supabase,-,docker,-,git,github,gitlab,-,stackoverflow" />
   
   ---
   
   Web:
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,tailwind,ant,symfony,nodejs,express,npm,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,-,vuejs,react,-,tailwind,symfony,nodejs,express,-,npm,vite"/>
   
   ---
   
@@ -33,7 +33,7 @@
   ---
   
   ML&BD|Python:
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,sklearn,pytorch,qt,anaconda"/>
+  <img src="https://skillicons.dev/icons?i=py,-,fastapi,django,-,sklearn,pytorch,qt,-,anaconda"/>
   
   ---
   
