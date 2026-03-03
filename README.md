@@ -16,18 +16,27 @@
 - **Concepts**: OOP, Data Structures, Algorithms, Problem Solving
 
 <div align="left">
+  
   OS, Tools:
   <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,pycharm,mysql,supabase,docker,git,github,gitlab,gmail,discord,stackoverflow" />
+  
   ---
+  
   Web:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,react,nodejs,express,npm,vite"/>
+  
   ---
+  
   C#:
   <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+  
   ---
+  
   ML&BD|Python:
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,sklearn,pytorch,qt,anaconda"/>
+  
   ---
+  
   Design:
   <img src="https://skillicons.dev/icons?i=ps,figma"/>
 </div>
