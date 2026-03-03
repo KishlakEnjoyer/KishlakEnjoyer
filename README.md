@@ -18,12 +18,12 @@
 <div align="left">
   
   OS, Tools:
-  <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,pycharm,mysql,supabase,docker,git,github,gitlab,gmail,discord,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,pycharm,mysql,supabase,docker,git,github,gitlab,stackoverflow" />
   
   ---
   
   Web:
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,react,nodejs,express,npm,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,nodejs,express,npm,vite"/>
   
   ---
   
@@ -39,6 +39,12 @@
   
   Design:
   <img src="https://skillicons.dev/icons?i=ps,figma"/>
+
+  ---
+
+  Social:
+  <img src="https://skillicons.dev/icons?i=instagram,discord,gmail"/>
+  
 </div>
 
 ---
