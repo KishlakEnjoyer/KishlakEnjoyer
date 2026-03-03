@@ -23,7 +23,7 @@
   ---
   
   Web:
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,symfony,nodejs,express,npm,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,vuejs,react,tailwind,ant,symfony,nodejs,express,npm,vite"/>
   
   ---
   
