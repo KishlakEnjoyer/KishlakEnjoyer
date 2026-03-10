@@ -71,7 +71,7 @@ Check out my [GitHub profile](https://github.com/KishlakEnjoyer) for ongoing and
 If you're into coding, tech, or just want to chat — I'm always up for a conversation!
 
 📧 Email: [2016Elektronik123@gmail.com](mailto:your-email@example.com)  
-🔗 Telegram: [@jdm_enjoyerr](href:https://t.me/jdm_enjoyerr)
+🔗 Telegram: [@jdm_enjoyerr](https://t.me/jdm_enjoyerr)
 
 ---
 
