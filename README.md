@@ -49,6 +49,14 @@
 
 ---
 
+## 🏆 Achievements
+
+- 😎 Expert-mentor — my ward was took 3rd place on Regional stage, "Professionals 2026" Championship (ML&BD) 
+- 🥈 2rd place — Regional stage, "Professionals 2025" Championship (ML&BD)
+- 😞 4th place — Regional stage, "Professionals 2024" Championship (BI Analytics)
+
+---
+
 ## 📚 Learning Journey
 
 I'm on a mission to become a well-rounded developer by mastering multiple programming paradigms and building real-world applications.
@@ -62,7 +70,7 @@ I'm on a mission to become a well-rounded developer by mastering multiple progra
 
 ## 🛠️ Projects
 
-Check out my [GitHub profile](https://github.com/KishlakEnjoyer) for ongoing and completed projects!
+Check out my [GitHub profile](https://github.com/KishlakEnjoyer?tab=repositories) for ongoing and completed projects!
 
 ---
 
@@ -70,8 +78,9 @@ Check out my [GitHub profile](https://github.com/KishlakEnjoyer) for ongoing and
 
 If you're into coding, tech, or just want to chat — I'm always up for a conversation!
 
-📧 Email: [2016Elektronik123@gmail.com](mailto:your-email@example.com)  
-🔗 Telegram: [@jdm_enjoyerr](https://t.me/jdm_enjoyerr)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jdm_enjoyerr)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.fayzullin.2007@mail.ru)
 
 ---
 
