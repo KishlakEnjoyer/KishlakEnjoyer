@@ -11,7 +11,7 @@
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: C#, Python, JavaScript (JS), Java, C++, Vue.js, Node.js, PHP
+- **Languages**: C#, Python, JavaScript (JS), TypeScript (TS), Java, C++, React JS/TS, Vue.js, Node.js, PHP
 - **Tools & Frameworks**: Jupyter Notebook, Visual Studio, Git, GitHub, VS Code, .NET, React (learning), SupaBase, MySQL
 - **Concepts**: OOP, Data Structures, Algorithms, Problem Solving
 
