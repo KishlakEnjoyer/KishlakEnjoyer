@@ -51,7 +51,8 @@
 
 ## 🏆 Achievements
 
-- 😎 Expert-mentor — my ward was took 3rd place on Regional stage, "Professionals 2026" Championship (ML&BD) 
+- 🤩 Expert-mentor — my ward was took 1st place on Regional stage, "Professionals 2026" High-Tech Championship (Artificial Intelligence Technologies for Automation of Warehouse Logistics Processes) 
+- 😎 Expert-mentor — my ward was took 3rd place on Regional stage, "Professionals 2026" Championship (ML&BD)
 - 🥈 2rd place — Regional stage, "Professionals 2025" Championship (ML&BD)
 - 😞 4th place — Regional stage, "Professionals 2024" Championship (BI Analytics)
 
