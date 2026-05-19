@@ -19,6 +19,7 @@ Currently, I'm learning and building projects with **C#**, **Python**, **JavaScr
 
 I enjoy solving problems, exploring new technologies, and creating useful projects.  
 I'm also interested in mentoring, teamwork, open-source, and real-world software development.
+I also have an **English level of B1**, which allows me to read documentation, communicate on technical topics, and continue improving my language skills.
 
 ---
 
@@ -64,6 +65,19 @@ I'm also interested in mentoring, teamwork, open-source, and real-world software
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,visualstudio,pycharm,anaconda" />
 </p>
 
+### 🤖 AI & CLI Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-1E90FF?style=for-the-badge&logo=alibabadotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI%20Tools-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+I actively use AI tools such as **ChatGPT**, **Codex**, **Claude**, **Claude Code**, **Qwen**, and other CLI-based tools to improve productivity, learn faster, debug code, and build better projects.
+
 ### 🤖 Python, ML & Data
 
 <p align="left">
@@ -87,7 +101,10 @@ I'm also interested in mentoring, teamwork, open-source, and real-world software
 - Clean Code  
 - Full-Stack Development  
 - Machine Learning Basics  
-- Database Design  
+- Database Design
+- AI-assisted Development  
+- Prompt Engineering Basics  
+- Working with CLI Tools  
 
 ---
 
