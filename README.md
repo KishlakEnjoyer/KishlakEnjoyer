@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Erik
 
-### 🚀 Developer • Mentor • Tech Enthusiast
+### 🤖 Aspiring ML Engineer • Data Analyst • Developer • Mentor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+programming;Learning+C%23%2C+Python%2C+JS%2C+Java+and+C%2B%2B;Building+meaningful+projects;Always+improving+my+skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Aspiring+ML+Engineer+and+Data+Analyst;Learning+Machine+Learning+and+Data+Science;Building+Python%2C+Web+and+AI-powered+Projects;Using+AI+Tools+to+Code+Smarter;Always+improving+my+skills" alt="Typing SVG" />
 
 </div>
 
@@ -14,22 +14,29 @@
 
 Hi! My name is **Erik** 🥂  
 
-I'm passionate about programming and constantly improving my skills.  
-Currently, I'm learning and building projects with **C#**, **Python**, **JavaScript**, **Java**, and **C++**.
+I'm an aspiring **Machine Learning Engineer** and **Data Analyst** with a strong interest in software development, automation, and intelligent systems.
 
-I enjoy solving problems, exploring new technologies, and creating useful projects.  
+Currently, I'm learning and building projects with **Python**, **C#**, **JavaScript**, **Java**, and **C++**.  
+My main focus is on **Machine Learning**, **Data Analysis**, **Python development**, and building practical solutions using modern technologies.
+
+I enjoy working with data, solving problems, exploring new technologies, and creating useful projects.  
 I'm also interested in mentoring, teamwork, open-source, and real-world software development.
-I also have an **English level of B1**, which allows me to read documentation, communicate on technical topics, and continue improving my language skills.
+
+My English level is **B1**, which allows me to read documentation, communicate on technical topics, and continue improving my language skills.
+
+I actively use AI tools such as **ChatGPT**, **Codex**, **Claude**, **Claude Code**, **Qwen**, and other CLI-based tools to improve productivity, debug code, learn faster, and build better projects.
 
 ---
 
 ## 🎯 Current Goals
 
-- 🚀 Build full-stack web applications  
-- 🧠 Improve algorithmic thinking  
-- 🧼 Write clean and maintainable code  
+- 🤖 Grow as a **Machine Learning Engineer**  
+- 📊 Improve skills in **Data Analysis** and **Data Visualization**  
+- 🧠 Learn ML algorithms, model training, and evaluation  
+- 🐍 Build Python-based ML and analytics projects  
+- 🚀 Create full-stack applications with AI/Data features  
 - 🌍 Contribute to open-source projects  
-- 💻 Grow as a well-rounded developer  
+- 🧼 Write clean, maintainable, and production-ready code   
 
 ---
 
@@ -78,11 +85,14 @@ I also have an **English level of B1**, which allows me to read documentation, c
 
 I actively use AI tools such as **ChatGPT**, **Codex**, **Claude**, **Claude Code**, **Qwen**, and other CLI-based tools to improve productivity, learn faster, debug code, and build better projects.
 
-### 🤖 Python, ML & Data
+### 🤖 Machine Learning, Data & Python
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,qt,streamlit,jupyter" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,anaconda,jupyter,fastapi,django,qt,streamlit" />
 </p>
+
+**Focus areas:**  
+Machine Learning, Data Analysis, Data Visualization, Python Automation, Model Training, Feature Engineering, and ML-powered applications.
 
 ### 🎨 Design
 
@@ -94,17 +104,38 @@ I actively use AI tools such as **ChatGPT**, **Codex**, **Claude**, **Claude Cod
 
 ## 🧠 Concepts I Practice
 
+- Machine Learning Basics  
+- Data Analysis  
+- Data Visualization  
+- Feature Engineering  
+- Model Training & Evaluation  
+- Python Automation  
 - Object-Oriented Programming  
 - Data Structures  
 - Algorithms  
 - Problem Solving  
 - Clean Code  
 - Full-Stack Development  
-- Machine Learning Basics  
-- Database Design
+- Database Design  
 - AI-assisted Development  
 - Prompt Engineering Basics  
 - Working with CLI Tools  
+
+---
+
+## 📊 ML & Data Interests
+
+I'm especially interested in applying Machine Learning and Data Analysis to real-world problems.
+
+Areas I want to grow in:
+
+- 📈 Exploratory Data Analysis  
+- 🧹 Data Cleaning and Preprocessing  
+- 🤖 Machine Learning Models  
+- 🧠 Neural Networks and Deep Learning Basics  
+- 📊 Dashboards and Data Visualization  
+- 🏭 AI solutions for automation and logistics  
+- 🧪 Experiments, metrics, and model evaluation  
 
 ---
 
@@ -172,10 +203,12 @@ Check out my repositories here:
 
 ## 📚 Learning Journey
 
-I'm on a mission to become a strong and versatile developer.  
-My focus is on combining theory with real practice by building projects, solving problems, and learning modern technologies.
+I'm on a mission to become a strong **ML Engineer / Data Analyst** with solid software development skills.
 
-> Keep learning. Keep building. Keep improving.
+My focus is on combining programming, data, machine learning, and real-world project development.  
+I believe that the best way to grow is to build practical projects, analyze real data, solve problems, and constantly improve.
+
+> Learn data. Build models. Solve real problems.
 
 ---
 
